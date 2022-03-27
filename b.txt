@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 new branch test`
 
 
 hello
+=======
+new branch test
+
+feauturel test`
+>>>>>>> featurel
+
+hello i have changed
